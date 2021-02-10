@@ -1,11 +1,11 @@
 
 # [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
 
-# Introduction
+# Introduction 🎅
 This is a nodejs backend microservice which outputs date in UTC and UNIX format.
-Check the [demo here](https://my-proj-timestamp.glitch.me/)
+Check the [demo here](https://my-proj-timestamp.glitch.me/) 👈👈
 
-# Project Setup
+# Project Setup 🛠
 - Clone the project
 - Open the terminal and navigate to the cloned project folder
 - Run ```npm i``` to install all dependencies
